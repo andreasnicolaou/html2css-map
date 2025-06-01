@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "fast-glob": "^3.3.3",
-    "yargs": "^17.7.2"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",
