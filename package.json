@@ -46,7 +46,7 @@
     "yargs": "^18.0.0"
   },
   "devDependencies": {
-    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/jest-dom": "^6.8.0",
     "@types/jest": "^30.0.0",
     "@types/node": "^22.15.18",
     "@types/yargs": "^17.0.33",
