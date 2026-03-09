@@ -4,7 +4,7 @@
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/andreasnicolaou/html2css-map/build.yaml)
 ![GitHub License](https://img.shields.io/github/license/andreasnicolaou/html2css-map)
 
-![NPM Downloads](https://img.shields.io/npm/dm/%40andreasnicolaou%2Fhtml2css-map)
+![NPM Downloads](https://img.shields.io/npm/dm/html2css-map)
 
 **html2css-map** is a command-line tool that extracts inline styles from HTML files, converts them into reusable CSS classes, and rewrites the HTML with cleaner, class-based markup.
 
